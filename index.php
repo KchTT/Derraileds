@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="initial-scale=1">
-<title>Accidentes</title>
+<title>Derraileds</title>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <!--[if lt IE 9]>
 <script>
@@ -21,6 +21,8 @@
 <style type="text/css">
   body{
     background-color: #000;
+    background-image: url(imgs/dd.jpg);
+    
   }
 </style>
 </head>
